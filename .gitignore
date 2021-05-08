@@ -1,0 +1,21 @@
+phpmyadmin
+nextcloud
+admin
+pihole
+index.php
+bin
+redir
+
+# Dont include WebApps that have a DataBase, for now
+cfpclient
+accounts
+apps
+music
+searcher
+'d
+forward.php
+youtube
+
+# Prevent spoilers
+cfpgames
+cd

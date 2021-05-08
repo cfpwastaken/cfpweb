@@ -1,0 +1,202 @@
+<html>
+	<head>
+		<title>Cowscript Docs</title>
+		<meta charset="utf-8">
+		<style>
+			code {
+				background-color: black;
+				color: white;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Cowscript Documentation - BETA</h1>
+		<h2>Table of Contents</h2>
+		<ul>
+			<li><a href="#commands">Commands</a></li>
+			<ul>
+				<li><a href="#print">print</a></li>
+				<li><a href="#waitforenter">waitforenter</a></li>
+				<li><a href="#msgbox">msgbox</a></li>
+				<li><a href="#errorbox">errorbox</a></li>
+				<li><a href="#infobox">infobox</a></li>
+				<li><a href="#download">download</a></li>
+				<li><a href="#presskeys">presskeys</a></li>
+				<li><a href="#title">title</a></li>
+				<li><a href="#setclip">setclip</a></li>
+				<li><a href="#printDOT">print.</a></li>
+				<li><a href="waitforkey">waitforkey</a></li>
+			</ul>
+			<li><a href="#comments">Comments</a></li>
+			<ul>
+				<li><a href="#comment1">'</a></li>
+				<li><a href="#comment2">//</a></li>
+				<li><a href="#rem">REM</a></li>
+			</ul>
+			<li><a href="#variables">Variables</a></li>
+			<ul>
+				<li><a href="#hours">%hours%</a></li>
+				<li><a href="#minutes">%minutes%</a></li>
+				<li><a href="#seconds">%seconds%</a></li>
+				<li><a href="#year">%year%</a></li>
+				<li><a href="#month">%month%</a></li>
+				<li><a href="#day">%day%</a></li>
+				<li><a href="#cowversion">%cowversion%</a></li>
+				<li><a href="#pcname">%pcname%</a></li>
+			</ul>
+		</ul>
+		<div id="commands">
+			<h2>Commands</h2>
+			<div id="print">
+				<h3>print</h3>
+				<p>Usage: print TEXT</p>
+				<p>Description: prints a text.</p>
+				<p>Example Script:</p>
+				<code>
+					print Hello World!
+				</code>
+				
+			</div>
+			<div id="waitforenter">
+				<h3>waitforenter</h3>
+				<p>Usage: waitforenter</p>
+				<p>Description: waits until the user presses Enter</p>
+			</div>
+			<div id="msgbox">
+				<h3>msgbox</h3>
+				<p>Usage: msgbox TEXT</p>
+				<p>Description: puts the text into an messagebox and shows it</p>
+				<p>Example Script:</p>
+				<code>
+					msgbox Hello World!
+				</code>
+			</div>
+			<div id="errorbox">
+				<h3>errorbox</h3>
+				<p>Usage: errorbox TEXT</p>
+				<p>Description: Similar to <a href="#msgbox">msgbox</a>, it makes a messagebox window, but with an error sign.</p>
+				<p>Example Code:</p>
+				<code>
+					errorbox An Error occured!
+				</code>
+				
+			</div>
+			<div id="infobox">
+				<h3>infobox</h3>
+				<p>Usage: infobox TEXT</p>
+				<p>Description: Similar to <a href="#msgbox">msgbox</a> and <a href="#errorbox">errorbox</a>, it makes a messagebox window, but with an information sign.</p>
+			</div>
+			<div id="download">
+				<h3>download</h3>
+				<p>Usage: download URL PATH</p>
+				<p>Description: Download a file.</p>
+				<p>Example Code:</p>
+				<code>
+					download https://cfpweb.ddns.net/test.txt C:\Users\Public\Downloads\test.txt
+				</code>
+			</div>
+			<div id="presskeys">
+				<h3>presskeys</h3>
+				<p>Usage: presskeys KEYS</p>
+				<p>Description: Presses Keys on the Keyboard</p>
+				<p>Example Code:</p>
+				<code>
+					presskeys Hello World!
+				</code>
+				<p>Bonus: You can also use special buttons: <a href="https://docs.microsoft.com/de-de/dotnet/api/system.windows.forms.sendkeys?view=netframework-4.8">View the list</a></p>
+			</div>
+			<div id="title">
+				<h3>title</h3>
+				<p>Usage: title TEXT</p>
+				<p>Description: Change the title</p>
+				<p>Example Code:</p>
+				<code>
+					title Hello World!
+				</code>
+				
+			</div>
+			<div id="setclip">
+				<h3>setclip</h3>
+				<p>Usage: setclip TEXT</p>
+				<p>Description: Change the clipboard content</p>
+				<p>Since: 1.7.0</p>
+				<p>Example Code:</p>
+				<code>
+					setclip Hey (:! I replaced your clipboard!
+				</code>
+			</div>
+			<div id="printDOT">
+				<h3>print.</h3>
+				<p>Usage: print.</p>
+				<p>Description: Print an empty line</p>
+				<p>Since: 1.7.0</p>
+			</div>
+			<div id="waitforkey">
+				<h3>waitforkey</h3>
+				<p>Usage: waitforkey</p>
+				<p>Description: Similar to <a href="#waitforenter">waitforenter</a>, the programm waits for the user to press <b>any</b> key</p>
+				<p>Since: 1.7.0</p>
+			</div>
+		</div>
+		<div id="comments">
+			<h2>Comments</h2>
+			<div id="comment1">
+				<h3>'</h3>
+				<p>The comment symbol of visual basic and maybe others.</p>
+			</div>
+			<div id="comment2">
+				<h3>//</h3>
+				<p>The comment symbol of many languages</p>
+			</div>
+			<div id="rem">
+				<h3>REM</h3>
+				<p>The comment symbol of Batch</p>
+			</div>
+		</div>
+		<div id="variables">
+			<h2>Variables</h2>
+			<p>Variables work with ALL commands</p>
+			<p>Usage: %VARNAME%</p>
+			<p>Example Code:</p>
+			<code>
+				print %hours%:%minutes%:%seconds% %year%/%month%/%day%
+			</code>
+			<br>
+			<code>
+				waitforend
+			</code>
+			<div id="hours">
+				<h3>hours</h3>
+				<p>Will be replaced with the hours.</p>
+			</div>
+			<div id="minutes">
+				<h3>minutes</h3>
+				<p>Will be replaced with the minutes.</p>
+			</div>
+			<div id="seconds">
+				<h3>seconds</h3>
+				<p>Will be replaced with the seconds.</p>
+			</div>
+			<div id="year">
+				<h3>year</h3>
+				<p>Will be replaced with the year.</p>
+			</div>
+			<div id="month">
+				<h3>month</h3>
+				<p>Will be replaced with the month.</p>
+			</div>
+			<div id="day">
+				<h3>day</h3>
+				<p>Will be replaced with the day.</p>
+			</div>
+			<div id="cowversion">
+				<h3>cowversion</h3>
+				<p>Will be replaced with the current version of cowscript.</p>
+			</div>
+			<div id="pcname">
+				<h3>pcname</h3>
+				<p>Will be replaced with the name of the computer.</p>
+			</div>
+		</div>
+	</body>
+</html>

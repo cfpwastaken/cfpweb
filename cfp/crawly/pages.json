@@ -1,0 +1,492 @@
+{ "title": "Datenschutz!!", "description": "Beschreibung hier", "keywords": "key, words", "http://localhost/cfp/datenschutz.php" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://google.com" },
+
+{ "title": "LessonCountdown", "description": "", "keywords": "", "http://localhost/cfp/lessoncountdown" },
+
+{ "title": "Apps", "description": "Apps ist eine Parodie von Microsoft Office 360.", "keywords": "", "http://localhost/cfp/apps" },
+
+{ "title": "Counter", "description": "", "keywords": "", "http://localhost/cfp/counter" },
+
+{ "title": "To do list", "description": "", "keywords": "", "http://localhost/cfp/todo" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://www.google.de/webhp?tab=ww" },
+
+{ "title": "Google Bilder", "description": "Google Bilder, die umfassendste Bildersuche im Web", "keywords": "", "https://www.google.de/imghp?hl=de&tab=wi" },
+
+{ "title": " Google Maps ", "description": "Mit Google Maps lokale Anbieter suchen, Karten anzeigen und RoutenplÃ¤ne abrufen.", "keywords": "", "https://maps.google.de/maps?hl=de&tab=wl" },
+
+{ "title": "Google Play", "description": "Viel SpaÃ mit Millionen aktueller Android-Apps, Spielen, Musik, Filmen, Serien, BÃ¼chern und Zeitschriften â jederzeit, Ã¼berall und auf allen deinen GerÃ¤ten.", "keywords": "", "https://play.google.com/?hl=de&tab=w8" },
+
+{ "title": "YouTube", "description": "Auf YouTube findest du die angesagtesten Videos und Tracks. AuÃerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.", "keywords": "Video, teilen, Kamerahandy, Videohandy, kostenlos, hochladen", "https://www.youtube.com/?gl=DE&tab=w1" },
+
+{ "title": "Google News", "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.", "keywords": "", "https://news.google.com/?tab=wn" },
+
+{ "title": "Gmail", "description": "Gmail ist ein intuitiver, effizienter und nützlicher E-Mail-Dienst mit 15 GB Speicherplatz, weniger Spam und mobilem Zugriff", "keywords": "", "https://mail.google.com/mail/?tab=wm" },
+
+{ "title": "Google Drive stellt sich vor – Alle Ihre Dateien an einem Ort", "description": "Mit Google Drive können Sie Dateien kostenlos sichern und einfach auf Ihre Daten über ein Telefon, Tablet oder einen Computer zugreifen. Nutzen Sie kostenlos 15 GB Speicherplatz in Google.", "keywords": "", "https://drive.google.com/?tab=wo" },
+
+{ "title": "Unsere Produkte - Google", "description": "Sehen Sie sich die umfassende Liste von Google-Produkten für Arbeit und Freizeit an, die Ihnen unter anderem dabei helfen, gut organisiert zu sein, Antworten zu erhalten, in Kontakt zu bleiben und Ihr Geschäft auszuweiten.", "keywords": "", "https://www.google.de/intl/de/about/products?tab=wh" },
+
+{ "title": "Google Kalender", "description": "Mit dem kostenlosen Online-Kalender von Google behalten Sie ganz einfach den Überblick über alle wichtigen Termine.", "keywords": "", "https://calendar.google.com/calendar?tab=wc" },
+
+{ "title": "Google Ãbersetzer", "description": "Der kostenlose Service von Google Ã¼bersetzt in Sekundenschnelle WÃ¶rter, SÃ¤tze und Webseiten zwischen Deutsch und Ã¼ber 100 anderen Sprachen.", "keywords": "Ã¼bersetzen, Ãbersetzungen, Ãbersetzung, Ãbersetzer, automatische Ãbersetzung, maschinelle Ãbersetzung, Online-Ãbersetzung, translate, translations, translation, translator, machine translation, online translation", "https://translate.google.de/?hl=de&tab=wT" },
+
+{ "title": "Google Books", "description": "", "keywords": "", "https://books.google.de/?hl=de&tab=wp" },
+
+{ "title": "Google Shopping", "description": "", "keywords": "", "https://www.google.de/shopping?hl=de&source=og&tab=wf" },
+
+{ "title": "Blogger.com - Create a unique and beautiful blog. Itâs easy and free.", "description": "Publish your passions your way. Whether youâd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.", "keywords": "", "https://www.blogger.com/?tab=wj" },
+
+{ "title": "Google Photos", "description": "Google Photos is the home for all your photos and videos, automatically organized and easy to share.", "keywords": "", "https://photos.google.com/?tab=wq&pageId=none" },
+
+{ "title": "Google Videos", "description": "Suche im gesamten Web nach Millionen von Videos.", "keywords": "", "http://video.google.de/?hl=de&tab=wv" },
+
+{ "title": "      Google Docs: Free Online Documents for Personal Use    ", "description": "Create a new document and edit it with others at the same time — from your computer, phone or tablet. Free with a Google account.", "keywords": "", "https://docs.google.com/document/?usp=docs_alc" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https://www.google.com/&ec=GAZAAQ" },
+
+{ "title": "Sucheinstellungen", "description": "", "keywords": "", "http://www.google.de/preferences?hl=de" },
+
+{ "title": "Sucheinstellungen", "description": "", "keywords": "", "https://google.com/preferences?hl=de" },
+
+{ "title": "GoogleÂ â Suchanpassung", "description": "", "keywords": "", "http://www.google.de/history/optout?hl=de" },
+
+{ "title": "Metropolitan Museum of Art - Google Suche", "description": "", "keywords": "", "https://google.com/search?ie=UTF-8&q=Metropolitan+Museum+of+Art&oi=ddle&ct=147787443&hl=de&kgmid=/m/09c7b&sa=X&ved=0ahUKEwjosPCdxPvvAhWR0eAKHUKbBh0QPQgD" },
+
+{ "title": "Erweiterte Suche von Google", "description": "", "keywords": "", "https://google.com/advanced_search?hl=de&authuser=0" },
+
+{ "title": "      Google Ads - Get More Customers With Easy Online Advertising    ", "description": "Get more customers on the phone, on your site, and in the door. Online ads on Google can help you reach the right customers and grow your business.", "keywords": "", "https://google.com/intl/de/ads/" },
+
+{ "title": "", "description": "", "keywords": "", "https://google.com/services/" },
+
+{ "title": "Google - Info", "description": "Das Ziel von Google ist es, die Informationen der Welt zu organisieren und für alle zu jeder Zeit zugänglich und nutzbar zu machen. Erfahren Sie mehr über die Unternehmensgeschichte und Produkte von Google und andere interessante Themen.", "keywords": "", "https://google.com/intl/de/about.html" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://www.google.com/setprefdomain?prefdom=DE&prev=https://www.google.de/&sig=K_bec35mMooQ812sDkYUVSbIyGHuE%3D" },
+
+{ "title": "", "description": "", "keywords": "", "https://google.com/intl/de/policies/privacy/" },
+
+{ "title": "", "description": "", "keywords": "", "https://google.com/intl/de/policies/terms/" },
+
+
+
+
+
+
+
+
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https://www.google.de/webhp%3Ftab%3Dww&ec=GAZAAQ" },
+
+{ "title": "Sucheinstellungen", "description": "", "keywords": "", "https://www.google.de/preferences?hl=de" },
+
+{ "title": "Metropolitan Museum of Art - Google Suche", "description": "", "keywords": "", "https://www.google.de/search?ie=UTF-8&q=Metropolitan+Museum+of+Art&oi=ddle&ct=147787443&hl=de&kgmid=/m/09c7b&sa=X&ved=0ahUKEwjQm5OoxPvvAhWJkhQKHZ66CxsQPQgD" },
+
+{ "title": "Erweiterte Suche von Google", "description": "", "keywords": "", "https://www.google.de/advanced_search?hl=de&authuser=0" },
+
+{ "title": "      Google Ads - Get More Customers With Easy Online Advertising    ", "description": "Get more customers on the phone, on your site, and in the door. Online ads on Google can help you reach the right customers and grow your business.", "keywords": "", "https://www.google.de/intl/de/ads/" },
+
+{ "title": "", "description": "", "keywords": "", "https://www.google.de/services/" },
+
+{ "title": "Google - Info", "description": "Das Ziel von Google ist es, die Informationen der Welt zu organisieren und für alle zu jeder Zeit zugänglich und nutzbar zu machen. Erfahren Sie mehr über die Unternehmensgeschichte und Produkte von Google und andere interessante Themen.", "keywords": "", "https://www.google.de/intl/de/about.html" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://www.google.de/setprefdomain?prefdom=US&sig=K_wa6Tb2F_eg0tnSGbG2APeobtRCA%3D" },
+
+{ "title": "", "description": "", "keywords": "", "https://www.google.de/intl/de/policies/privacy/" },
+
+{ "title": "", "description": "", "keywords": "", "https://www.google.de/intl/de/policies/terms/" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://www.google.de/webhp?tab=iw" },
+
+{ "title": "Google Bilder", "description": "Google Bilder, die umfassendste Bildersuche im Web", "keywords": "", "https://www.google.de/imghp?hl=de&tab=ii" },
+
+{ "title": " Google Maps ", "description": "Mit Google Maps lokale Anbieter suchen, Karten anzeigen und RoutenplÃ¤ne abrufen.", "keywords": "", "https://maps.google.de/maps?hl=de&tab=il" },
+
+{ "title": "Google Play", "description": "Viel SpaÃ mit Millionen aktueller Android-Apps, Spielen, Musik, Filmen, Serien, BÃ¼chern und Zeitschriften â jederzeit, Ã¼berall und auf allen deinen GerÃ¤ten.", "keywords": "", "https://play.google.com/?hl=de&tab=i8" },
+
+{ "title": "YouTube", "description": "Auf YouTube findest du die angesagtesten Videos und Tracks. AuÃerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.", "keywords": "Video, teilen, Kamerahandy, Videohandy, kostenlos, hochladen", "https://www.youtube.com/?gl=DE&tab=i1" },
+
+{ "title": "Google News", "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.", "keywords": "", "https://news.google.com/?tab=in" },
+
+{ "title": "Gmail", "description": "Gmail ist ein intuitiver, effizienter und nützlicher E-Mail-Dienst mit 15 GB Speicherplatz, weniger Spam und mobilem Zugriff", "keywords": "", "https://mail.google.com/mail/?tab=im" },
+
+{ "title": "Google Drive stellt sich vor – Alle Ihre Dateien an einem Ort", "description": "Mit Google Drive können Sie Dateien kostenlos sichern und einfach auf Ihre Daten über ein Telefon, Tablet oder einen Computer zugreifen. Nutzen Sie kostenlos 15 GB Speicherplatz in Google.", "keywords": "", "https://drive.google.com/?tab=io" },
+
+{ "title": "Unsere Produkte - Google", "description": "Sehen Sie sich die umfassende Liste von Google-Produkten für Arbeit und Freizeit an, die Ihnen unter anderem dabei helfen, gut organisiert zu sein, Antworten zu erhalten, in Kontakt zu bleiben und Ihr Geschäft auszuweiten.", "keywords": "", "https://www.google.de/intl/de/about/products?tab=ih" },
+
+{ "title": "Google Kalender", "description": "Mit dem kostenlosen Online-Kalender von Google behalten Sie ganz einfach den Überblick über alle wichtigen Termine.", "keywords": "", "https://calendar.google.com/calendar?tab=ic" },
+
+{ "title": "Google Ãbersetzer", "description": "Der kostenlose Service von Google Ã¼bersetzt in Sekundenschnelle WÃ¶rter, SÃ¤tze und Webseiten zwischen Deutsch und Ã¼ber 100 anderen Sprachen.", "keywords": "Ã¼bersetzen, Ãbersetzungen, Ãbersetzung, Ãbersetzer, automatische Ãbersetzung, maschinelle Ãbersetzung, Online-Ãbersetzung, translate, translations, translation, translator, machine translation, online translation", "https://translate.google.de/?hl=de&tab=iT" },
+
+{ "title": "Google Books", "description": "", "keywords": "", "https://books.google.de/?hl=de&tab=ip" },
+
+{ "title": "Google Shopping", "description": "", "keywords": "", "https://www.google.de/shopping?hl=de&source=og&tab=if" },
+
+{ "title": "Blogger.com - Create a unique and beautiful blog. Itâs easy and free.", "description": "Publish your passions your way. Whether youâd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.", "keywords": "", "https://www.blogger.com/?tab=ij" },
+
+{ "title": "Google Photos", "description": "Google Photos is the home for all your photos and videos, automatically organized and easy to share.", "keywords": "", "https://photos.google.com/?tab=iq&pageId=none" },
+
+{ "title": "Google Videos", "description": "Suche im gesamten Web nach Millionen von Videos.", "keywords": "", "http://video.google.de/?hl=de&tab=iv" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https://www.google.de/imghp%3Fhl%3Dde%26tab%3Dwi&ec=GAZAAg" },
+
+{ "title": "Erweiterte Bildersuche von Google", "description": "", "keywords": "", "https://www.google.de/advanced_image_search?hl=de&authuser=0" },
+
+{ "title": "Google", "description": "", "keywords": "", "https://www.google.de/webhp?tab=8w" },
+
+{ "title": "Google Bilder", "description": "Google Bilder, die umfassendste Bildersuche im Web", "keywords": "", "http://www.google.de/imghp?hl=de&tab=8i" },
+
+{ "title": " Google Maps ", "description": "Mit Google Maps lokale Anbieter suchen, Karten anzeigen und RoutenplÃ¤ne abrufen.", "keywords": "", "https://maps.google.de/maps?hl=de&tab=8l" },
+
+{ "title": "Google Play", "description": "Viel SpaÃ mit Millionen aktueller Android-Apps, Spielen, Musik, Filmen, Serien, BÃ¼chern und Zeitschriften â jederzeit, Ã¼berall und auf allen deinen GerÃ¤ten.", "keywords": "", "https://play.google.com/?hl=de&tab=88" },
+
+{ "title": "YouTube", "description": "Auf YouTube findest du die angesagtesten Videos und Tracks. AuÃerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.", "keywords": "Video, teilen, Kamerahandy, Videohandy, kostenlos, hochladen", "https://www.youtube.com/?gl=DE&tab=81" },
+
+{ "title": "Google News", "description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.", "keywords": "", "https://news.google.com/?tab=8n" },
+
+{ "title": "Gmail", "description": "Gmail ist ein intuitiver, effizienter und nützlicher E-Mail-Dienst mit 15 GB Speicherplatz, weniger Spam und mobilem Zugriff", "keywords": "", "https://mail.google.com/mail/?tab=8m" },
+
+{ "title": "Google Drive stellt sich vor – Alle Ihre Dateien an einem Ort", "description": "Mit Google Drive können Sie Dateien kostenlos sichern und einfach auf Ihre Daten über ein Telefon, Tablet oder einen Computer zugreifen. Nutzen Sie kostenlos 15 GB Speicherplatz in Google.", "keywords": "", "https://drive.google.com/?tab=8o" },
+
+{ "title": "Unsere Produkte - Google", "description": "Sehen Sie sich die umfassende Liste von Google-Produkten für Arbeit und Freizeit an, die Ihnen unter anderem dabei helfen, gut organisiert zu sein, Antworten zu erhalten, in Kontakt zu bleiben und Ihr Geschäft auszuweiten.", "keywords": "", "https://www.google.de/intl/de/about/products?tab=8h" },
+
+{ "title": "Google Kalender", "description": "Mit dem kostenlosen Online-Kalender von Google behalten Sie ganz einfach den Überblick über alle wichtigen Termine.", "keywords": "", "https://calendar.google.com/calendar?tab=8c" },
+
+{ "title": "Google Ãbersetzer", "description": "Der kostenlose Service von Google Ã¼bersetzt in Sekundenschnelle WÃ¶rter, SÃ¤tze und Webseiten zwischen Deutsch und Ã¼ber 100 anderen Sprachen.", "keywords": "Ã¼bersetzen, Ãbersetzungen, Ãbersetzung, Ãbersetzer, automatische Ãbersetzung, maschinelle Ãbersetzung, Online-Ãbersetzung, translate, translations, translation, translator, machine translation, online translation", "https://translate.google.de/?hl=de&tab=8T" },
+
+{ "title": "Google Books", "description": "", "keywords": "", "https://books.google.de/?hl=de&tab=8p" },
+
+{ "title": "Google Shopping", "description": "", "keywords": "", "https://www.google.de/shopping?hl=de&source=og&tab=8f" },
+
+{ "title": "Blogger.com - Create a unique and beautiful blog. Itâs easy and free.", "description": "Publish your passions your way. Whether youâd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.", "keywords": "", "https://www.blogger.com/?tab=8j" },
+
+{ "title": "Google Photos", "description": "Google Photos is the home for all your photos and videos, automatically organized and easy to share.", "keywords": "", "https://photos.google.com/?tab=8q&pageId=none" },
+
+{ "title": "Google Videos", "description": "Suche im gesamten Web nach Millionen von Videos.", "keywords": "", "http://video.google.de/?hl=de&tab=8v" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://play.google.com/store?hl%3Dde%26tab%3Dw8&followup=https://play.google.com/store?hl%3Dde%26tab%3Dw8&hl=de&ec=GAZATg" },
+
+{ "title": "Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store" },
+
+{ "title": "Android Apps on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/apps" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/apps" },
+
+{ "title": "Games - Android Apps on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/apps/category/GAME" },
+
+{ "title": "Kids - Android Apps on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/apps/category/FAMILY" },
+
+{ "title": "Editors' Choice Android Apps and Games on Google Play", "description": "Discover the best of Google Play. A rotating selection of delightful apps and exciting games, handpicked by the Play Store editors.", "keywords": "", "https://play.google.com/store/apps/editors_choice" },
+
+{ "title": "Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/movies" },
+
+{ "title": "TV - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/TV" },
+
+{ "title": "Family - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/FAMILY" },
+
+{ "title": "Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/stream/promotion_collections_movie_studios" },
+
+{ "title": "Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/stream/promotion_collections_tv_networks" },
+
+{ "title": "Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books" },
+
+{ "title": "Google Play", "description": "", "keywords": "", "https://play.google.com/books" },
+
+{ "title": "Audiobooks - Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/category/audiobooks" },
+
+{ "title": "Google Store fÃ¼r GerÃ¤te und ZubehÃ¶r von Google", "description": "Hol dir die neuesten Chromecasts, Smartphones, Lautsprecher und Smart Displays im Google Store. Pixel 5, Google Nest Audio und Chromecast mit Google TV sind jetzt erhÃ¤ltlich.", "keywords": "", "https://play.google.com/web/store/devices?utm_source=play_banner&utm_medium=google_oo&utm_campaign=GS106288" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/store/account" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/store/paymentmethods" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/store/account/subscriptions" },
+
+{ "title": "      Google Play-Geschenkkarten: Geschäft finden    ", "description": "Du kannst eine Geschenkkarte in einem Geschäft in deiner Nähe kaufen und so die neuesten Unterhaltungsangebote für Android-Geräte verschenken.", "keywords": "", "https://play.google.com/intl/de_de/about/giftcards" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/wishlist" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/store/myplayactivity" },
+
+{ "title": "Parent Guide to Google Play - Google Play Help", "description": "Explore the topics below to learn about features for families in Google Play.", "keywords": "", "https://support.google.com/googleplay?p=pff_parentguide" },
+
+{ "title": "Anmelden – Google Konten", "description": "", "keywords": "", "https://play.google.com/settings" },
+
+{ "title": "Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/collection/cluster?clp=8gNeChwKFnByb21vdGlvbl9hYm9va19jb21lZHkQRBgBEj4KOG5ld19ob21lX2RldmljZV9mZWF0dXJlZF9wcm9tb3Rpb25fYWJvb2tfY29tZWR5XzAtNy0xLTY4EAwYAQ%3D%3D:S:ANO1ljK1ZBs&gsr=CmHyA14KHAoWcHJvbW90aW9uX2Fib29rX2NvbWVkeRBEGAESPgo4bmV3X2hvbWVfZGV2aWNlX2ZlYXR1cmVkX3Byb21vdGlvbl9hYm9va19jb21lZHlfMC03LTEtNjgQDBgB:S:ANO1ljI5vdw" },
+
+{ "title": "QualityLand 2.0: Kikis Geheimnis by Marc-Uwe Kling - Audiobooks on Google Play", "description": "QualityLand 2.0: Kikis Geheimnis audiobook written by Marc-Uwe Kling. Narrated by Marc-Uwe Kling. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Marc_Uwe_Kling_QualityLand_2_0?id=AQAAAEAc7BasGM" },
+
+{ "title": "Falling for my Brother's Best Friend (Baileys-Serie 4) (Baileys-Serie) by Piper Rayne - Audiobooks on Google Play", "description": "Falling for my Brother's Best Friend (Baileys-Serie 4) (Baileys-Serie) audiobook written by Piper Rayne. Narrated by Lisa Stark and Ben Adam. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Piper_Rayne_Falling_for_my_Brother_s_Best_Friend_B?id=AQAAAEDcwACAzM" },
+
+{ "title": "Die KÃ¤nguru-Chroniken (KÃ¤nguru): Live und ungekÃ¼rzt by Marc-Uwe Kling - Audiobooks on Google Play", "description": "Die KÃ¤nguru-Chroniken (KÃ¤nguru): Live und ungekÃ¼rzt audiobook written by Marc-Uwe Kling. Narrated by Marc-Uwe Kling. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Marc_Uwe_Kling_Die_K%C3%A4nguru_Chroniken_K%C3%A4nguru?id=AQAAAABJL1cvDM" },
+
+{ "title": "Twist of a Love Affair (Baileys-Serie 3) (Baileys-Serie) by Piper Rayne - Audiobooks on Google Play", "description": "Twist of a Love Affair (Baileys-Serie 3) (Baileys-Serie) audiobook written by Piper Rayne. Narrated by Emilia Wallace and Phillip Delarge. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Piper_Rayne_Twist_of_a_Love_Affair_Baileys_Serie_3?id=AQAAAECcFVlV1M" },
+
+{ "title": "Kisses from the Guy next Door (Baileys-Serie 2) by Piper Rayne - Audiobooks on Google Play", "description": "Kisses from the Guy next Door (Baileys-Serie 2) audiobook written by Piper Rayne. Narrated by Alicia Hofer and Ben Adam. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Piper_Rayne_Kisses_from_the_Guy_next_Door_Baileys?id=AQAAAEAcJjxmMM" },
+
+{ "title": "Fertig ist die Laube. Die Online-Omi gÃ¤rtnert by Renate Bergmann - Audiobooks on Google Play", "description": "Fertig ist die Laube. Die Online-Omi gÃ¤rtnert audiobook written by Renate Bergmann. Narrated by Carmen-Maja Antoni. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Renate_Bergmann_Fertig_ist_die_Laube_Die_Online_Om?id=AQAAAEDcBVJFnM" },
+
+{ "title": "Sean Brummel: Einen ScheiÃ muss ich - Das Manifest gegen das schlechte Gewissen (GekÃ¼rzte Fassung) by - Audiobooks on Google Play", "description": "Sean Brummel: Einen ScheiÃ muss ich - Das Manifest gegen das schlechte Gewissen (GekÃ¼rzte Fassung) audiobook written by . Narrated by Tommy Jaud. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Sean_Brummel_Einen_Schei%C3%9F_muss_ich_Das_Manifest_ge?id=AQAAAACdnlCe3M" },
+
+{ "title": "Stellen Sie die Sirenen aus â mein Kind macht Mittagsschlaf!: Neue witzige Geschichten Ã¼ber Helikopter-Eltern by Lena Greiner, Carola Padtberg - Audiobooks on Google Play", "description": "Stellen Sie die Sirenen aus â mein Kind macht Mittagsschlaf!: Neue witzige Geschichten Ã¼ber Helikopter-Eltern audiobook written by Lena Greiner, Carola Padtberg. Narrated by Oliver Rohrbeck. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Lena_Greiner_Stellen_Sie_die_Sirenen_aus_mein_Kind?id=AQAAAECcvUv9xM" },
+
+{ "title": "Schmitz' Mama - Andere haben Probleme, ich hab' Familie (GekÃ¼rzte Fassung) by - Audiobooks on Google Play", "description": "Schmitz' Mama - Andere haben Probleme, ich hab' Familie (GekÃ¼rzte Fassung) audiobook written by . Narrated by Ralf Schmitz. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Schmitz_Mama_Andere_haben_Probleme_ich_hab_Familie?id=AQAAAIBQXibeZM" },
+
+{ "title": "Das KÃ¤nguru-Manifest (KÃ¤nguru) by Marc-Uwe Kling - Audiobooks on Google Play", "description": "Das KÃ¤nguru-Manifest (KÃ¤nguru) audiobook written by Marc-Uwe Kling. Narrated by Marc-Uwe Kling. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Marc_Uwe_Kling_Das_K%C3%A4nguru_Manifest_K%C3%A4nguru?id=AQAAAACf8Vzx0M" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=8gNoCiEKG3Byb21vdGlvbl9tb3ZpZXNfdG9wc2VsbGluZxA_GAQSQwo9bmV3X2hvbWVfZGV2aWNlX2ZlYXR1cmVkX3Byb21vdGlvbl9tb3ZpZXNfdG9wc2VsbGluZ18wLTctNC02MxAMGAQ%3D:S:ANO1ljLzcB0&gsr=CmvyA2gKIQobcHJvbW90aW9uX21vdmllc190b3BzZWxsaW5nED8YBBJDCj1uZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uX21vdmllc190b3BzZWxsaW5nXzAtNy00LTYzEAwYBA%3D%3D:S:ANO1ljJ0AxU" },
+
+{ "title": "Honest Thief - Movies on Google Play", "description": "Tom, ein seit Jahren gesuchter Gentleman-Banktresorknacker, hat sich in die hÃ¼bsche, ahnungslose ANNIE verliebt und beschlossen, seine kriminelle Karriere zu beenden. Als er sich der Polizei stellen will, wird er von zwei korrupten FBI-Agenten hintergangen, welche es auf seine unangetastete Millionen-Beute abgesehen haben und deshalb Tom den Mord an einem Kollegen in die Schuhe schieben. Da sinnt der Ex-Marine Tom auf Racheâ¦", "keywords": "", "https://play.google.com/store/movies/details/Honest_Thief?id=w1X9x3ZI73s.P" },
+
+{ "title": "Action & adventure - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/1" },
+
+{ "title": "Greenland - Movies on Google Play", "description": "Ein riesiger Komet rast mit hoher Geschwindigkeit auf die Erde zu und soll Berechnungen zufolge vor Eintritt in die ErdatmosphÃ¤re verglÃ¼hen. Doch die Prognosen stimmen nicht â ein erstes Fragment des Kometen stÃ¼rzt nicht ins Meer, sondern zerstÃ¶rt stattdessen ganz Florida. GerÃ¼chte, dass nur ein ausgewÃ¤hlter Kreis von Personen in Sicherheit gebracht werden kann, machen bereits die Runde, als Ingenieur John Garrity (Gerard Butler) von der US-Regierung aufgefordert wird, sich sofort gemeinsam mit seiner Frau Allison (Morena Baccarin) und Sohn Nathan (Roger Dale Floyd) zu einer MilitÃ¤rbasis zu begeben. Von dort aus sollen sie an einen Ort ausgeflogen werden, an dem das Ãberleben mÃ¶glich sein soll: GrÃ¶nland. Doch die Fahrt dorthin wird zum SpieÃrutenlauf und die Familie im Chaos verzweifelt fliehender Menschen und plÃ¼ndernder Horden auseinandergerissen. Wie sollen sie sich je wiederfinden, und wo ist man Ã¼berhaupt noch sicher? GREENLAND erzÃ¤hlt vom dramatischen Ãberlebenskampf einer Familie unter apokalyptischen Bedingungen, wobei die vielversprechende Synergie des Erfolgsduos Gerard Butler und Regisseur Ric Roman Waugh aus ANGEL HAS FALLEN ebenso spannendes wie spektakulÃ¤res Action-Kino garantiert. VervollstÃ¤ndigt wird das Dreamteam von der Emmy-Nominierten Morena Baccarin, die dem Publikum aus dem Hit-Franchise DEADPOOL und der TV-Serien-Sensation HOMELAND bestens vertraut ist. GREENLAND steht damit in bester Katastrophenfilm-Tradition im Stil von DEEP IMPACT und ARMAGEDDON und behÃ¤lt dank trickreicher Wendungen seinen raffinierten Spannungsbogen bis zum furiosen Finale.", "keywords": "", "https://play.google.com/store/movies/details/Greenland?id=vNZN5ZvmXAQ.P" },
+
+{ "title": "Synchronic - Movies on Google Play", "description": "When New Orleans paramedics and long-time best friends Steve (Anthony Mackie) and Dennis (Jamie Dornan) are called to a series of bizarre, gruesome accidents, they put it down to the mysterious new party drug found at the scene. But after Dennis's oldest daughter suddenly disappears, Steve stumbles upon a terrifying truth about the supposed psychedelic that will challenge everything he knows about reality-and the flow of time itself.", "keywords": "", "https://play.google.com/store/movies/details/Synchronic?id=Y4se0GWF9r4.P" },
+
+{ "title": "Drama - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/6" },
+
+{ "title": "Raya und der letzte Drache - Movies on Google Play", "description": "Raya und der letzte Drache" von den Walt Disney Animation Studios begibt sich in die Fantasiewelt von Kumandra, in der Menschen und Drachen vor langer Zeit harmonisch zusammenlebten. Doch als eine bÃ¶se Macht das Land bedrohte, opferten sich die Drachen, um die Menschheit zu retten. Jetzt, 500 Jahre spÃ¤ter, ist dieselbe bÃ¶se Macht zurÃ¼ckgekehrt und es ist an einer einsamen Kriegerin, Raya, den legendÃ¤ren letzten Drachen ausfindig zu machen, um das geteilte Land und sein gespaltenes Volk wieder zu einen. Auf ihrer Reise lernt sie jedoch, dass es auf mehr als einen Drachen ankommt, um die Welt zu retten â Vertrauen und Zusammenhalt sind ebenso wichtig. In "Raya und der letzte Drache" ist die Stimme von Christina Ann Zalamea als Raya zu hÃ¶ren, einer Kriegerin, deren Verstand so scharf ist wie ihr Schwert. An ihrer Seite: Sisu, die magische, mythische, bescheidene Drachendame. Weitere Figuren sind unter anderem der zehnjÃ¤hrige, clevere Entrepreneur Boun, der furchterregende Riese Tong und das klauende Kleinkind Noi mit seiner Ongi-Bande.", "keywords": "", "https://play.google.com/store/movies/details/Raya_und_der_letzte_Drache?id=fOXuBzoyeCE.P" },
+
+{ "title": "Animation - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/2" },
+
+{ "title": "The Tax Collector - Movies on Google Play", "description": "David (Bobby Soto) und Creeper (Shia LaBeouf) sammeln als âSteuereintreiber" fÃ¼r Gangsterboss Wizard dessen Anteil an den Profiten ein, die Ã¶rtliche Gangs mit ihren illegalen GeschÃ¤ften machen. Als jedoch ein alter Rivale Wizards aus Mexiko zurÃ¼ckkehrt und das Business auf den Kopf stellt, versucht David verzweifelt, das zu retten, was ihm mehr bedeutet als alles andere: seine Familie. In L. A. angesiedelter Actionthriller von Regisseur und Autor David Ayer (Herz aus Stahl, Harsh Times -- Leben am Limit ) mit Shia LaBeouf (Transformers, Herz aus Stahl ) und Newcomer Bobby Soto (A Better Life).", "keywords": "", "https://play.google.com/store/movies/details/The_Tax_Collector?id=7zwoGjip7iU.P" },
+
+{ "title": "Crime - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/5" },
+
+{ "title": "Tenet - Movies on Google Play", "description": "Armed with only one wordâTenetâand fighting for the survival of the entire world, the Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.", "keywords": "", "https://play.google.com/store/movies/details/Tenet?id=XjGT81on6z0.P" },
+
+{ "title": "After Truth - Movies on Google Play", "description": "Wie wird es weitergehen mit Tessa und Hardin? Seit sie die Wahrheit Ã¼ber ihn erfahren hat, fÃ¼hlt sich Tessa verraten und steht ganz alleine da. Ist er wirklich der tiefgrÃ¼ndige, nachdenkliche Typ, in den sie sich verliebt hat oder war er die ganze Zeit Ã¼ber ein Fremder? Hardin bittet Tessa um Verzeihung fÃ¼r alles, was zwischen ihnen passiert ist. Doch neben der Erinnerung an seine leidenschaftliche Liebe ist bei Tessa auch die Angst, wieder von ihm enttÃ¤uscht zu werden. Und mit Tessas Arbeitskollegen Trevor liegt Eifersucht in der Luft. Kann Hardin sich Ã¤ndern? Wird er sich Ã¤ndern â aus Liebe?", "keywords": "", "https://play.google.com/store/movies/details/After_Truth?id=9nlqmsJkZ3M.P" },
+
+{ "title": "Jumanji: The Next Level - Movies on Google Play", "description": "Sequel to the 2017 box office smash hit.", "keywords": "", "https://play.google.com/store/movies/details/Jumanji_The_Next_Level?id=yEpIHUriAWU.P" },
+
+{ "title": "John Wick: Kapitel 3 - Movies on Google Play", "description": "John Wick, der Auftragskiller par excellence kehrt furios zurÃ¼ck. Nachdem er ein Mitglied der geheimnisvollen Assassinen-Gilde tÃ¶tete, wurde Wick zum âExcommunicado" erklÃ¤rt und ein Kopfgeld von 14 Millionen Dollar auf ihn ausgesetzt. Nun gerÃ¤t er weltweit ins Visier der skrupellosesten Auftragskiller, die jeden seiner Schritte verfolgen. Unter ihnen befindet sich auch John Wicks alte Bekannte Sofia von der sich noch zeigen wird, ob sie Freund oder Feind zuzuordnen ist. Dass man sich jedoch mit dem Bowery King besser nicht anlegen sollte, ist sicher.", "keywords": "", "https://play.google.com/store/movies/details/John_Wick_Kapitel_3?id=0kjGBLJJU1U.P" },
+
+{ "title": "Joker - Movies on Google Play", "description": "âJokerâ centers around the iconic arch-nemesis and is an original, standalone story not seen before on the big screen. The exploration of Arthur Fleck (Joaquin Phoenix), a man disregarded by society, is not only a gritty character study, but also a broader cautionary tale.", "keywords": "", "https://play.google.com/store/movies/details/Joker?id=qY3a_eJfFsg.P" },
+
+{ "title": "Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/collection/cluster?clp=8gNmCiAKGnByb21vdGlvbl9hYm9va190b3BzZWxsaW5nEEQYARJCCjxuZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uX2Fib29rX3RvcHNlbGxpbmdfMC03LTEtNjgQDBgB:S:ANO1ljL5spk&gsr=CmnyA2YKIAoacHJvbW90aW9uX2Fib29rX3RvcHNlbGxpbmcQRBgBEkIKPG5ld19ob21lX2RldmljZV9mZWF0dXJlZF9wcm9tb3Rpb25fYWJvb2tfdG9wc2VsbGluZ18wLTctMS02OBAMGAE%3D:S:ANO1ljJpMuk" },
+
+{ "title": "The Story of a Love Song (UngekÃ¼rzt) by Vi Keeland, Penelope Ward - Audiobooks on Google Play", "description": "The Story of a Love Song (UngekÃ¼rzt) audiobook written by Vi Keeland, Penelope Ward. Narrated by Karo Rieper and Louis Friedemann Thiele. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Vi_Keeland_The_Story_of_a_Love_Song_Ungek%C3%BCrzt?id=AQAAAEDcihbK2M" },
+
+{ "title": "FrÃ¼hling auf Schottisch: Highland-Liebesroman by Karin Lindberg - Audiobooks on Google Play", "description": "FrÃ¼hling auf Schottisch: Highland-Liebesroman audiobook written by Karin Lindberg. Narrated by Inka Lioba Bretschneider. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Karin_Lindberg_Fr%C3%BChling_auf_Schottisch?id=AQAAAEDcbAksxM" },
+
+{ "title": "Harry Potter und der Gefangene von Askaban by J.K. Rowling - Audiobooks on Google Play", "description": "Harry Potter und der Gefangene von Askaban audiobook written by J.K. Rowling. Narrated by Rufus Beck. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/J_K_Rowling_Harry_Potter_und_der_Gefangene_von_Ask?id=AQAAAIBuxzJHTM" },
+
+{ "title": "Von der Pflicht: Eine Betrachtung by Richard David Precht - Audiobooks on Google Play", "description": "Von der Pflicht: Eine Betrachtung audiobook written by Richard David Precht. Narrated by Richard David Precht. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Richard_David_Precht_Von_der_Pflicht?id=AQAAAEDc7m-uoM" },
+
+{ "title": "Harry Potter und der Stein der Weisen by J.K. Rowling - Audiobooks on Google Play", "description": "Harry Potter und der Stein der Weisen audiobook written by J.K. Rowling. Narrated by Rufus Beck. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/J_K_Rowling_Harry_Potter_und_der_Stein_der_Weisen?id=AQAAAIDuxStF1M" },
+
+{ "title": "Harry Potter und die Kammer des Schreckens by J.K. Rowling - Audiobooks on Google Play", "description": "Harry Potter und die Kammer des Schreckens audiobook written by J.K. Rowling. Narrated by Rufus Beck. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/J_K_Rowling_Harry_Potter_und_die_Kammer_des_Schrec?id=AQAAAIDudWj1lM" },
+
+{ "title": "Ostfriesenzorn (Ostfriesenkrimis. Ann Kathrin Klaasen ermittelt): ungekÃ¼rzte Lesung by Klaus-Peter Wolf - Audiobooks on Google Play", "description": "Ostfriesenzorn (Ostfriesenkrimis. Ann Kathrin Klaasen ermittelt): ungekÃ¼rzte Lesung audiobook written by Klaus-Peter Wolf. Narrated by Klaus-Peter Wolf. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Klaus_Peter_Wolf_Ostfriesenzorn_Ostfriesenkrimis_A?id=AQAAAEDcCEpIhM" },
+
+{ "title": "FÃ¼r Immer und Ewig (Die Pension in Sunset Harbor â Buch 2) by Sophie Love - Audiobooks on Google Play", "description": "FÃ¼r Immer und Ewig (Die Pension in Sunset Harbor â Buch 2) audiobook written by Sophie Love. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Sophie_Love_F%C3%BCr_Immer_und_Ewig_Die_Pension_in_Suns?id=AQAAAECsOhh6pM" },
+
+{ "title": "Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/collection/cluster?clp=8gNmCiAKGnByb21vdGlvbl9lYm9va190b3BzZWxsaW5nEEQYARJCCjxuZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uX2Vib29rX3RvcHNlbGxpbmdfMC03LTEtNjgQDBgB:S:ANO1ljIEqk8&gsr=CmnyA2YKIAoacHJvbW90aW9uX2Vib29rX3RvcHNlbGxpbmcQRBgBEkIKPG5ld19ob21lX2RldmljZV9mZWF0dXJlZF9wcm9tb3Rpb25fZWJvb2tfdG9wc2VsbGluZ18wLTctMS02OBAMGAE%3D:S:ANO1ljKa4RE" },
+
+{ "title": "The Story of a Love Song by Vi Keeland, Penelope Ward - Books on Google Play", "description": "The Story of a Love Song - Ebook written by Vi Keeland, Penelope Ward. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read The Story of a Love Song.", "keywords": "", "https://play.google.com/store/books/details/Vi_Keeland_The_Story_of_a_Love_Song?id=2hfgDwAAQBAJ" },
+
+{ "title": "Books by Vi Keeland on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Vi+Keeland" },
+
+{ "title": "Ãber Menschen: Roman by Juli Zeh - Books on Google Play", "description": "Ãber Menschen: Roman - Ebook written by Juli Zeh. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Ãber Menschen: Roman.", "keywords": "", "https://play.google.com/store/books/details/Juli_Zeh_%C3%9Cber_Menschen?id=nGIGEAAAQBAJ" },
+
+{ "title": "Books by Juli Zeh on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Juli+Zeh" },
+
+{ "title": "Most Wanted Bachelor by Annika Martin - Books on Google Play", "description": "Most Wanted Bachelor - Ebook written by Annika Martin. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Most Wanted Bachelor.", "keywords": "", "https://play.google.com/store/books/details/Annika_Martin_Most_Wanted_Bachelor?id=OrIVEAAAQBAJ" },
+
+{ "title": "Books by Annika Martin on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Annika+Martin" },
+
+{ "title": "Das Kind in dir muss Heimat finden: Der SchlÃ¼ssel zur LÃ¶sung (fast) aller Probleme by Stefanie Stahl - Books on Google Play", "description": "Das Kind in dir muss Heimat finden: Der SchlÃ¼ssel zur LÃ¶sung (fast) aller Probleme - Ebook written by Stefanie Stahl. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Das Kind in dir muss Heimat finden: Der SchlÃ¼ssel zur LÃ¶sung (fast) aller Probleme.", "keywords": "", "https://play.google.com/store/books/details/Stefanie_Stahl_Das_Kind_in_dir_muss_Heimat_finden?id=SZNpCQAAQBAJ" },
+
+{ "title": "Books by Stefanie Stahl on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Stefanie+Stahl" },
+
+{ "title": "Eine deutsche Meisterschaft: Roman by Benno Hurt - Books on Google Play", "description": "Eine deutsche Meisterschaft: Roman - Ebook written by Benno Hurt. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Eine deutsche Meisterschaft: Roman.", "keywords": "", "https://play.google.com/store/books/details/Benno_Hurt_Eine_deutsche_Meisterschaft?id=tNwt5VJLaLYC" },
+
+{ "title": "Books by Benno Hurt on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Benno+Hurt" },
+
+{ "title": "Dornenpakt: Thriller by Karen Rose - Books on Google Play", "description": "Dornenpakt: Thriller - Ebook written by Karen Rose. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Dornenpakt: Thriller.", "keywords": "", "https://play.google.com/store/books/details/Karen_Rose_Dornenpakt?id=kboFEAAAQBAJ" },
+
+{ "title": "Books by Karen Rose on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Karen+Rose" },
+
+{ "title": "Crush the King: Die Splitterkrone 3 by Jennifer Estep - Books on Google Play", "description": "Crush the King: Die Splitterkrone 3 - Ebook written by Jennifer Estep. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Crush the King: Die Splitterkrone 3.", "keywords": "", "https://play.google.com/store/books/details/Jennifer_Estep_Crush_the_King?id=WQQEEAAAQBAJ" },
+
+{ "title": "Books by Jennifer Estep on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Jennifer+Estep" },
+
+{ "title": "Miss Merkel: Mord in der Uckermark by David Safier - Books on Google Play", "description": "Miss Merkel: Mord in der Uckermark - Ebook written by David Safier. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Miss Merkel: Mord in der Uckermark.", "keywords": "", "https://play.google.com/store/books/details/David_Safier_Miss_Merkel?id=qSYIEAAAQBAJ" },
+
+{ "title": "Books by David Safier on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=David+Safier" },
+
+{ "title": "Lustiges Taschenbuch Weltreise 02: Nordamerika by Walt Disney - Books on Google Play", "description": "Lustiges Taschenbuch Weltreise 02: Nordamerika - Ebook written by Walt Disney. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Lustiges Taschenbuch Weltreise 02: Nordamerika.", "keywords": "", "https://play.google.com/store/books/details/Walt_Disney_Lustiges_Taschenbuch_Weltreise_02?id=noMlEAAAQBAJ" },
+
+{ "title": "Books by Walt Disney on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Walt+Disney" },
+
+{ "title": "Mystic Highlands: Sammelband der knisternden Highland-Fantasy: Knisternde Highland-Fantasy by Raywen White - Books on Google Play", "description": "Mystic Highlands: Sammelband der knisternden Highland-Fantasy: Knisternde Highland-Fantasy - Ebook written by Raywen White. Read this book using Google Play Books app on your PC, android, iOS devices. Download for offline reading, highlight, bookmark or take notes while you read Mystic Highlands: Sammelband der knisternden Highland-Fantasy: Knisternde Highland-Fantasy.", "keywords": "", "https://play.google.com/store/books/details/Raywen_White_Mystic_Highlands_Sammelband_der_knist?id=rCvqDwAAQBAJ" },
+
+{ "title": "Books by Raywen White on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/author?id=Raywen+White" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=mgMECAYYAg%3D%3D:S:ANO1ljKVKc0&gsr=CgeaAwQIBhgC:S:ANO1ljJ100I" },
+
+{ "title": "I Spit On Your Grave 2 - Movies on Google Play", "description": "Die hÃ¼bsche Kellnerin Katie versucht sich in New York nebenher als Fotomodel. Als sie eines Tages an einen dubiosen Fotografen und sein Team gerÃ¤t, befÃ¤llt sie ein ungutes GefÃ¼hl und sie bricht die Foto-Session ab. Doch ihre schlimmsten Ãngste bewahrheiten sich, als einer der MÃ¤nner in ihre Wohnung einbricht. Katie wird brutal vergewaltigt und von der skrupellosen Bande nach Bulgarien verschleppt. FÃ¼r das junge Model beginnt hier ein wahrgewordener schrecklicher Alptraum. Eingesperrt in einen dunklen Keller wird sie als Sexsklavin gehalten und brutal missbraucht. Nach einer qualvollen Zeit gelingt es Katie endlich zu fliehen und sie begibt sich auf einen erbarmungslosen Rachefeldzug gegen ihre Peiniger... 2013 Day of the Woman The Sequel LLC", "keywords": "", "https://play.google.com/store/movies/details/I_Spit_On_Your_Grave_2?id=gTeA0iJgUbk" },
+
+{ "title": "Horror - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/10" },
+
+{ "title": "Fifty Shades of Grey Befreite Lust - Movies on Google Play", "description": "Jamie Dornan und Dakota Johnson erleben als Christian Grey und Anastasia Steele gemeinsam den HÃ¶hepunkt der Weltbestseller-Verfilmung Fifty Shades of Grey Befreite Lust. Nach ihrer Hochzeit schweben Christian und Ana im siebten Himmel und genieÃen ihre luxuriÃ¶sen Flitterwochen in vollen ZÃ¼gen. Doch gerade als Ana in ihrer Rolle als Mrs. Grey aufblÃ¼ht und Christian sich der ungewohnten StabilitÃ¤t in seinem Leben hingibt, werden sie von Schatten der Vergangenheit eingeholt. Verstrickt in kriminelle Intrigen und im Sog dunkler Leidenschaften muss Ana erneut um ihre Liebe kÃ¤mpfen.", "keywords": "", "https://play.google.com/store/movies/details/Fifty_Shades_of_Grey_Befreite_Lust?id=mootQtCoM6s" },
+
+{ "title": "Romance - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/12" },
+
+{ "title": "Die EiskÃ¶nigin - VÃ¶llig unverfroren - Movies on Google Play", "description": "In "Die EiskÃ¶nigin: VÃ¶llig unverfroren" begibt sich die furchtlose Optimistin Anna zusammen mit dem rauen Naturburschen Kristoff und dessen treuem Rentier Sven auf eine abenteuerliche Reise, auf der sie Bedingungen wie auf dem Mount Everest vorfinden, mystischen Kobolden begegnen und einen lustigen Schneemann namens Olaf treffen. Sie mÃ¼ssen dringend Annas Schwester Elsa finden, deren Eismagie das KÃ¶nigreich Arendelle im ewigen Winter gefangen hÃ¤lt.", "keywords": "", "https://play.google.com/store/movies/details/Die_Eisk%C3%B6nigin_V%C3%B6llig_unverfroren?id=6fzJPgrEVAA" },
+
+{ "title": "Animation - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/2002" },
+
+{ "title": "TÃ¼rkisch fÃ¼r AnfÃ¤nger - Movies on Google Play", "description": "Lena Schneider (JOSEFINE PREUÃ) hat es nicht leicht. Vom Leben frustriert und einer antiautoritÃ¤ren Erziehung "traumatisiert" wird sie von ihrer Mutter Doris (ANNA STIEBLICH), Psychotherapeutin und Berufsjugendliche, zu einem Urlaubstripp nach SÃ¼dostasien verdonnert. Bereits im Flugzeug werden Lenas schlimmste BefÃ¼rchtungen wahr, als sie neben dem wandelnden Testosteronpaket Cem ÃztÃ¼rk (ELYAS M'BAREK) sitzen muss. Deutsche Emanzipation trifft auf tÃ¼rkischen Machismo. Die Katastrophe ist perfekt, als die Boeing notwassern muss und Lena sich plÃ¶tzlich mit Cem, seiner streng religiÃ¶sen Schwester Yagmur und dem stotternden Griechen Costa auf einer einsamen Insel wiederfindet. WÃ¤hrend die Jugendlichen den Schlagabtausch im unberÃ¼hrten Paradies erÃ¶ffnen, trifft Doris in einer Hotelanlage auf den konventionell-bÃ¼rgerlichen Vater Metin ÃztÃ¼rk, ebenfalls auf der Suche nach seinen Kindern... (Originaltitel - TÃ¼rkisch fÃ¼r AnfÃ¤nger) Inhaberin der ausschlieÃlichen Nutzungsrechte ist die Constantin Film Verleih GmbH", "keywords": "", "https://play.google.com/store/movies/details/T%C3%BCrkisch_f%C3%BCr_Anf%C3%A4nger?id=yc7gq9pECEs" },
+
+{ "title": "Comedy - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/4" },
+
+{ "title": "Sex Tape - Movies on Google Play", "description": "Jay (Jason Segel) und Annie (Cameron Diaz) sind ein immer noch leidenschaftliches Ehepaar. Allerdings haben zehn Jahre Ehe und zwei Kinder fÃ¼r ein wenig AbkÃ¼hlung gesorgt. Um die Leidenschaft neu zu entfachen, entscheiden sie sich - warum nicht? - ein Video von sich zu machen, in dem sie jede Position aus Freude Am Sex in einem dreistÃ¼ndigen Marathon ausprobieren. Es scheint eine tolle Idee, bis sie merken, dass ihr ganz privates Video an die Ãffentlichkeit gelangt ist. Panisch beginnen sie eine wilde und abenteuerliche Nacht, in der sie Spuren nachgehen, Freunde mit einspannen und Annies Boss Ã¼berlisten - nur, um ihr Video, ihren Ruf, ihren Frieden und vor allem ihre Ehe zurÃ¼ckzubekommen.", "keywords": "", "https://play.google.com/store/movies/details/Sex_Tape?id=RO-5yuoyIeo" },
+
+{ "title": "The LEGO Movie - Movies on Google Play", "description": "Im ersten LEGO-Kinofilm erleben wir die Abenteuer von Emmet, einer ganz gewÃ¶hnlichen, durchschnittlichen LEGO-Minifigur, die sich an alle Regeln hÃ¤lt, jedoch fÃ¤lschlicherweise als total auÃergewÃ¶hnlich und als SchlÃ¼ssel zur Rettung der Welt angesehen wird. Gemeinsam mit anderen, ihm fremden Figuren stÃ¼rzt er sich in ein Abenteuer, um einen bÃ¶sen Tyrannen aufzuhalten -- eine Reise, auf die Emmet so wenig vorbereitet ist, dass es schon lachhaft komisch ist.", "keywords": "", "https://play.google.com/store/movies/details/The_LEGO_Movie?id=eYruLBU-evM" },
+
+{ "title": "Family - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/8" },
+
+{ "title": "Dragonball Z - Kampf der GÃ¶tter - Movies on Google Play", "description": "Nachdem unsere tapferen Z-Krieger den gefÃ¤hrlichsten Widersacher der Erde, den DÃ¤mon Boo, vernichten konnten, wartet schon eine neue Herausforderung auf Son-Goku und seine Freunde. Denn Beerus, der Gott der ZerstÃ¶rung, ist aus langem Schlaf erwacht und begierig, den Saiyjing-Krieger herauszufordern, der Freezer ausgeschaltet haben soll. Son-Gokus anfÃ¤ngliche Freude Ã¼ber einen so starken Gegner ist bald getrÃ¼bt, denn die gewaltige Macht Beerusâ scheint unbezwingbar. Doch wird es den Z-Kriegern erneut gelingen, ihren Planeten und das Universum zu retten?", "keywords": "", "https://play.google.com/store/movies/details/Dragonball_Z_Kampf_der_G%C3%B6tter?id=wgal14Z86qc" },
+
+{ "title": "Extraction - Operation Condor - Movies on Google Play", "description": "Harry Turner (Kellan Lutz) folgt den Spuren seines Vaters, der als Agent der CIA im AuÃendienst sein groÃes Vorbild ist. Leider ist Harry nur im BÃ¼roeinsatz, denn obwohl er gut ausgebildet ist, werden seine AntrÃ¤ge auf Versetzung abgelehnt. Als Terroristen seinen Vater (Bruce Willis) bei der Ãbergabe eines weltbeherrschenden Computerteils namens Condor entfÃ¼hren, startet er eigenmÃ¤chtig eine nicht autorisierte Rettungsaktion. Endlich kann Harry seine Kampfausbildung unter Beweis stellen, um seinen Vater zu befreien und die Welt vor den Terroristen zu schÃ¼tzen. Dabei bleibt er nicht unbemerkt, CIA-Agentin und Harrys ehemalige Freundin Victoria (Gina Carano) hat den Auftrag ihn umgehend wieder auf seinen BÃ¼rostuhl zu befÃ¶rdern. WÃ¤hrend Harry seinem Vater immer nÃ¤her kommt, nÃ¤hert er sich auch einer VerschwÃ¶rung, die sein Leben mit Sicherheit fÃ¼r immer verÃ¤ndern wird.Cooler Actionfilm mit Hollywood-Star Bruce Willis, und Kellan Lutz als ambitioniertem Nachwuchsagenten, gut choreografierten KÃ¤mpfe, schnelle Verfolgungsjagden und schÃ¶ne Frauen inklusive.", "keywords": "", "https://play.google.com/store/movies/details/Extraction_Operation_Condor?id=FaDaN39R8OI" },
+
+{ "title": "Coco, der neugierige Affe - Movies on Google Play", "description": "Coco, das furchtbar neugierige Ãffchen, trifft auf seiner Reise vom Dschungel in die GroÃstadt auf den Mann mit dem gelben Hut. Schon bald entwickelt sich daraus eine wunderbare Freundschaft, die jede noch so verzwickte Situation Ã¼bersteht. Denn angetrieben von Cocos Neugier geraten die beiden Freunde in ein Abenteuer nach dem anderen. Kaum haben sie sich aus einer Klemme befreit, landen sie in der nÃ¤chsten und sorgen damit fÃ¼r eine fantastische Bilderreise, die lustiger und liebevoller nicht sein kÃ¶nnte! Die populÃ¤re Kinderbuchreihe 'Curious George' verzauberte bereits Millionen von Kindern. Jetzt kommt sie endlich auf DVD: 'Coco, der neugierige Affe' - ein aufregendes FilmvergnÃ¼gen voller SpaÃ und Abenteuer fÃ¼r die ganze Familie! (Original Titel - Curious George)", "keywords": "", "https://play.google.com/store/movies/details/Coco_der_neugierige_Affe?id=ViYj0oAyI8E" },
+
+{ "title": "Zoomania - Movies on Google Play", "description": "Ein herzerwÃ¤rmendes Comedy-Abenteuer, das in der modernen Tier-Metropole Zoomania spielt: Ein Schmelztiegel, in dem Tiere aus jedem Habitat zusammenleben. Ein Ort, an dem man - egal ob riesiger Elefant oder winzige Spitzmaus - alles sein kann. Doch NeuankÃ¶mmling Officer Judy Hopps erkennt, dass man es als erster Hase in einer aus groÃen, toughen Tieren bestehenden Polizeitruppe nicht leicht hat. Entschlossen, sich zu beweisen, reiÃt sie sich darum, einen Fall zu lÃ¶sen, auch wenn sie sich dafÃ¼r mit dem schrÃ¤gen Schwindler-Fuchs Nick Wilde verbÃ¼nden muss, um den Kriminalfall zu knacken.", "keywords": "", "https://play.google.com/store/movies/details/Zoomania?id=82BtzsUhGqw" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=0g5cChoKFHRvcHNlbGxpbmdfcGFpZF9zaG93EAcYBDI8CjZuZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfdG9wc2VsbGluZ19wYWlkX3Nob3dfMC03LTQtNjMQDBgEOAE%3D:S:ANO1ljLXbyQ&gsr=Cl_SDlwKGgoUdG9wc2VsbGluZ19wYWlkX3Nob3cQBxgEMjwKNm5ld19ob21lX2RldmljZV9mZWF0dXJlZF90b3BzZWxsaW5nX3BhaWRfc2hvd18wLTctNC02MxAMGAQ4AQ%3D%3D:S:ANO1ljLyCWc" },
+
+{ "title": "Game of Thrones - TV on Google Play", "description": "Buy Game of Thrones on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Game_of_Thrones?id=SZElHQNGYEg" },
+
+{ "title": "Chernobyl - TV on Google Play", "description": "Buy Chernobyl on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Chernobyl?id=IGfzALVFnBk1USSxdiOT5w" },
+
+{ "title": "The Originals - TV on Google Play", "description": "Buy The Originals on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/The_Originals?id=tmdplbXPefs" },
+
+{ "title": "Der Bergdoktor - TV on Google Play", "description": "Buy Der Bergdoktor on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Der_Bergdoktor?id=XcJNPYIxr8w" },
+
+{ "title": "Alle unter einem Dach - TV on Google Play", "description": "Buy Alle unter einem Dach on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Alle_unter_einem_Dach?id=YEz6FmCA05-V18G22s_ruA" },
+
+{ "title": "The 100 - TV on Google Play", "description": "Buy The 100 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/The_100?id=unWhorzKJT8" },
+
+{ "title": "The Act - TV on Google Play", "description": "Buy The Act on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/The_Act?id=XkPeXlmPO1sQsLDZp6UZdA" },
+
+{ "title": "Club der roten BÃ¤nder - TV on Google Play", "description": "Buy Club der roten BÃ¤nder on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Club_der_roten_B%C3%A4nder?id=EaP8JCawqDEWOj7wdZ9PyQ" },
+
+{ "title": "South Park - TV on Google Play", "description": "Buy South Park on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/South_Park?id=e8LVXufCWWo" },
+
+{ "title": "Star Wars: The Clone Wars - TV on Google Play", "description": "Buy Star Wars: The Clone Wars on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show/Star_Wars_The_Clone_Wars?id=PvJPnEXg0TM" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=8gNqCiIKHHByb21vdGlvbl9tb3ZpZXNfbmV3X3JlbGVhc2UQPxgEEkQKPm5ld19ob21lX2RldmljZV9mZWF0dXJlZF9wcm9tb3Rpb25fbW92aWVzX25ld19yZWxlYXNlXzAtNy00LTYzEAwYBA%3D%3D:S:ANO1ljIsdxI&gsr=Cm3yA2oKIgoccHJvbW90aW9uX21vdmllc19uZXdfcmVsZWFzZRA_GAQSRAo-bmV3X2hvbWVfZGV2aWNlX2ZlYXR1cmVkX3Byb21vdGlvbl9tb3ZpZXNfbmV3X3JlbGVhc2VfMC03LTQtNjMQDBgE:S:ANO1ljLeNi8" },
+
+{ "title": "Jungleland - Movies on Google Play", "description": "Stan (Charlie Hunnam) and Lion (Jack OâConnell) are two brothers struggling to stay relevant in the underground world of bare-knuckle boxing. When Stan fails to pay back a dangerous crime boss (Jonathon Majors), theyâre forced to deliver an unexpected traveler as they journey across the country for a high-stakes fighting tournament. While Stan trains Lion for the fight of his life, a series of events threaten to tear the brothers apart but their love for one another and belief in a better life keep them going in this gripping drama that proves family pulls no punches.", "keywords": "", "https://play.google.com/store/movies/details/Jungleland?id=P3YYKHdY54Q.P" },
+
+{ "title": "Dreamland - Movies on Google Play", "description": "Academy AwardÂ® nominee Margot Robbie (Once Upon a Time in Hollywood) âis fantasticâ (Indiewire) in this âdazzlingâ (Hollywood Reporter) love story set amidst Americaâs struggle during the Great Depression. Eugene Evans (Finn Cole, âPeaky Blindersâ) dreams of escaping his small Texas town when he discovers a wounded, fugitive bank robber Allison Wells (Robbie) hiding closer than he could ever imagine. Torn between claiming the bounty for her capture and his growing attraction to the seductive criminal, nothing is as it seems, and Eugene must make a decision that will forever affect the lives of everyone heâs ever loved. Travis Fimmel (Warcraft), Kerry Condon (Avengers: Infinity War) and Lola Kirke (American Made) also star in this âbeautifully shot coming-of-age storyâ (Indiewire).", "keywords": "", "https://play.google.com/store/movies/details/Dreamland_Flucht_Ins_Leben?id=olGDSetZ2P8.P" },
+
+{ "title": "Life In A Year - Movies on Google Play", "description": "The movie follows 17-year-old Daryn who finds out that his girlfriend is dying. He sets out to give her an entire life in the last year she has left.", "keywords": "", "https://play.google.com/store/movies/details/Life_in_a_Year?id=riD0qKH141E.P" },
+
+{ "title": "Infamous - Movies on Google Play", "description": "Arielle (Bella Thorne) hat ihr eintÃ¶niges Leben als unscheinbare Kellnerin in einer Kleinstadt in Florida satt. Sie trÃ¤umt davon, eines Tages berÃ¼hmt zu werden. Als sie sich in den kÃ¼rzlich auf BewÃ¤hrung entlassenen Kleinkriminellen Dean (Jake Manley) verliebt, soll ihr Wunsch schneller in ErfÃ¼llung gehen als gedacht. Nachdem das Paar Deans gewalttÃ¤tigen Vater bei einer Auseinandersetzung versehentlich tÃ¶tet, muss es fliehen. Um an Geld zu kommen, Ã¼berfallen die beiden kleine LÃ¤den und Tankstellen. Arielle filmt ihre gemeinsamen RaubzÃ¼ge und stellt die Videos online, wo sie schon bald von zahlreichen Followern gefeiert werden. Besessen von ihrem schnell wachsenden Internetruhm stÃ¼rzt sich Arielle in ein selbstzerstÃ¶rerisches Abenteuer aus wilden Verfolgungsjagden und SchieÃereien, das in einem BankÃ¼berfall gipfelt.", "keywords": "", "https://play.google.com/store/movies/details/Infamous?id=cbKVPtYxDQo.P" },
+
+{ "title": "Pelikanblut - Movies on Google Play", "description": "Pferdetrainerin Wiebke (45) adoptiert die fÃ¼nfjÃ¤hrige Raya aus Bulgarien. Bald merkt sie, dass das MÃ¤dchen Schwierigkeiten hat, zwischenmenschliche Regeln zu akzeptieren, und nicht fÃ¤hig ist, emotionale Bindungen aufzubauen. Mit ihrem eskalierenden Verhalten bringt Raya sich und andere in Gefahr. Darunter leidet besonders die neunjÃ¤hrige Adoptivschwester Nicola. Als ein Neurologe erklÃ¤rt, dass Raya vermutlich ihr Leben lang krank sein wird, muss Wiebke entscheiden, ob sie bereit ist, das MÃ¤dchen bei sich zu behalten. Und damit womÃ¶glich Nicolas Wohlbefinden zu riskieren. Um eine LÃ¶sung fÃ¼r dieses Dilemma zu finden, beginnt Wiebke eine fragwÃ¼rdige Behandlung, die die Menschen um sie herum als GrenzÃ¼berschreitung empfinden. Ihr Verhalten wird zur Herausforderung, vor allem fÃ¼r Benedict, ihre heimliche LiebesaffÃ¤re. Je mehr Wiebke sich isoliert, desto besessener ist sie von dem Gedanken, Raya heilen zu wollen - koste es was es wolle. Ein ungewÃ¶hnliches Opfer scheint schlieÃlich die einzige LÃ¶sung zu sein.", "keywords": "", "https://play.google.com/store/movies/details/Pelikanblut?id=L3YFldkc_kE.P" },
+
+{ "title": "Soul - Movies on Google Play", "description": "Was macht uns Menschen aus? Warum bist du DU? Diesen November prÃ¤sentieren uns die Pixar Animation Studios ihren neuen Film "Soul" und stellen uns Joe Gardner vor, den Musiklehrer einer Mittelschule, der mit dem Auftritt im besten Jazzclub der Stadt die Chance seines Lebens bekommt. Doch ein kleiner Fehltritt katapultiert ihn von den StraÃen New Yorks ins "Davorseits", einen fantastischen Ort, an dem alle neuen Seelen ihre PersÃ¶nlichkeiten, Eigenarten und Interessen erhalten, bevor sie auf die Erde kommen. Um mÃ¶glichst schnell wieder auf die Erde zurÃ¼ckzukehren, schlieÃt Joe sich der altklugen Seele Nummer 22 an, die noch nie verstanden hat, was an einem Dasein als Mensch so toll sein soll. WÃ¤hrend Joe verzweifelt versucht, 22 die VorzÃ¼ge des Lebens schmackhaft zu machen, erhÃ¤lt er Antworten auf einige der wichtigsten Fragen Ã¼berhaupt. Ein Film von Regisseur und OscarÂ® Gewinner Pete Docter ("Alles steht Kopf", "Oben"), in Co-Regie von Kemp Powers ("One Night in Miami") und produziert von der fÃ¼r den OscarÂ® nominierten Dana Murray (Pixar Kurzfilm "Lou").", "keywords": "", "https://play.google.com/store/movies/details/Soul?id=E_JTTShzfNo.P" },
+
+{ "title": "Capone - Movies on Google Play", "description": "Einst ein skrupelloser GeschÃ¤ftsmann und Schmuggler, der Chicago mit eiserner Faust regierte, war Al Capone der berÃ¼chtigtste und gefÃ¼rchtetste Top-Gangster Amerikas. Die BehÃ¶rden konnten ihm zwar nicht wegen seiner Verbrechen habhaft werden, sehr wohl aber seiner Vergehen wegen Steuerhinterziehung. Im Alter von 47 Jahren, nach fast einem Jahrzehnt Gefangenschaft, wird er entlassen ist jedoch gesundheitlich gezeichnet und fortan nicht mehr der gleiche. Im Kreise seiner Familie versucht der kranke Patriarch die Erinnerung an die Millionen von Dollar, die er auf seinem GrundstÃ¼ck versteckt hatte zu bewahren. Denn das FBI liegt immer noch auf der Lauer ...", "keywords": "", "https://play.google.com/store/movies/details/Capone?id=t2H0OFsczOQ.P" },
+
+{ "title": "Books on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/books/collection/cluster?clp=8gNcChsKFXByb21vdGlvbl9hYm9va19kZWFscxBEGAESPQo3bmV3X2hvbWVfZGV2aWNlX2ZlYXR1cmVkX3Byb21vdGlvbl9hYm9va19kZWFsc18wLTctMS02OBAMGAE%3D:S:ANO1ljK1f60&gsr=Cl_yA1wKGwoVcHJvbW90aW9uX2Fib29rX2RlYWxzEEQYARI9CjduZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uX2Fib29rX2RlYWxzXzAtNy0xLTY4EAwYAQ%3D%3D:S:ANO1ljJg4lM" },
+
+{ "title": "Wenn Sie WÃ¼sste (Ein Kate Wise Mystery â Buch 1) by Blake Pierce - Audiobooks on Google Play", "description": "Wenn Sie WÃ¼sste (Ein Kate Wise Mystery â Buch 1) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Wenn_Sie_W%C3%BCsste_Ein_Kate_Wise_Mystery?id=AQAAAEAszVKNbM" },
+
+{ "title": "Nebenan (Ein Chloe Fine Suspense Psycho-Thriller - Buch 1) by Blake Pierce - Audiobooks on Google Play", "description": "Nebenan (Ein Chloe Fine Suspense Psycho-Thriller - Buch 1) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Nebenan_Ein_Chloe_Fine_Suspense_Psych?id=AQAAAECsOgt6tM" },
+
+{ "title": "Reich der Drachen (Das Zeitalter der Magier â Buch Eins) by Morgan Rice - Audiobooks on Google Play", "description": "Reich der Drachen (Das Zeitalter der Magier â Buch Eins) audiobook written by Morgan Rice. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Morgan_Rice_Reich_der_Drachen_Das_Zeitalter_der_Ma?id=AQAAAECcYyMjrM" },
+
+{ "title": "Koste Es Was Es Wolle (Ein Luke Stone ThrillerâBuch 1) by Jack Mars - Audiobooks on Google Play", "description": "Koste Es Was Es Wolle (Ein Luke Stone ThrillerâBuch 1) audiobook written by Jack Mars. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Jack_Mars_Koste_Es_Was_Es_Wolle_Ein_Luke_Stone_Thr?id=AQAAAECsL1Zv6M" },
+
+{ "title": "Gefesselt (ein Riley Paige Krimi - Band #2) by Blake Pierce - Audiobooks on Google Play", "description": "Gefesselt (ein Riley Paige Krimi - Band #2) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Gefesselt_ein_Riley_Paige_Krimi_Band?id=AQAAAEAsekM6fM" },
+
+{ "title": "Ãbermittlung (Chronik der Invasion â Buch eins): Ein Science Fiction Thriller by Morgan Rice - Audiobooks on Google Play", "description": "Ãbermittlung (Chronik der Invasion â Buch eins): Ein Science Fiction Thriller audiobook written by Morgan Rice. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Morgan_Rice_%C3%9Cbermittlung_Chronik_der_Invasion_Buch?id=AQAAAECcpjfmuM" },
+
+{ "title": "Ersehnt (ein Riley Paige Krimi -- Band #3) by Blake Pierce - Audiobooks on Google Play", "description": "Ersehnt (ein Riley Paige Krimi -- Band #3) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Ersehnt_ein_Riley_Paige_Krimi_Band_3?id=AQAAAEAsCVlJZM" },
+
+{ "title": "GekÃ¶dert (ein Riley Paige Krimi -- Band #4) by Blake Pierce - Audiobooks on Google Play", "description": "GekÃ¶dert (ein Riley Paige Krimi -- Band #4) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Gek%C3%B6dert_ein_Riley_Paige_Krimi_Band_4?id=AQAAAECsWBQYqM" },
+
+{ "title": "Eine Spur von Mord (Keri Locke Mystery--Buch #2) by Blake Pierce - Audiobooks on Google Play", "description": "Eine Spur von Mord (Keri Locke Mystery--Buch #2) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Eine_Spur_von_Mord_Keri_Locke_Mystery?id=AQAAAEBsiirKVM" },
+
+{ "title": "Gejagt (ein Riley Paige Krimi - Band #5) by Blake Pierce - Audiobooks on Google Play", "description": "Gejagt (ein Riley Paige Krimi - Band #5) audiobook written by Blake Pierce. Get instant access to all your favorite books. No monthly commitment. Listen online or offline with Android, iOS, web, Chromecast, and Google Assistant. Try Google Play Audiobooks today!", "keywords": "", "https://play.google.com/store/audiobooks/details/Blake_Pierce_Gejagt_ein_Riley_Paige_Krimi_Band_5?id=AQAAAEBsPAZ8eM" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=8gNmCiAKGnByb21vdGlvbl9tb3ZpZXNfZGVhbHNfZXN0ED8YBBJCCjxuZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uX21vdmllc19kZWFsc19lc3RfMC03LTQtNjMQDBgE:S:ANO1ljKcVEk&gsr=CmnyA2YKIAoacHJvbW90aW9uX21vdmllc19kZWFsc19lc3QQPxgEEkIKPG5ld19ob21lX2RldmljZV9mZWF0dXJlZF9wcm9tb3Rpb25fbW92aWVzX2RlYWxzX2VzdF8wLTctNC02MxAMGAQ%3D:S:ANO1ljLs_i8" },
+
+{ "title": "Killer's Bodyguard - Movies on Google Play", "description": "Michael Bryce (Ryan Reynolds) ist der weltbeste Sicherheitsagent und PersonenschÃ¼tzer und wird als solcher ausgerechnet dafÃ¼r engagiert, den berÃ¼hmt-berÃ¼chtigten Auftragskiller Darius Kincaid (Samuel L. Jackson) zu beschÃ¼tzen, mit dem er bereits mehr als einmal beruflich zu tun hatte. Kincaid soll vor einem internationalen Gerichtshof gegen den verbrecherischen, osteuropÃ¤ischen Diktator Vladislav Dukhovich (Gary Oldman) aussagen. Doch dazu muss er rechtzeitig und unversehrt dort eintreffen, was Dukhovich natÃ¼rlich mit allen Mitteln verhindern will. Die beiden MÃ¤nner waren zwar jahrelang Feinde und haben unzÃ¤hlige Male versucht, sich gegenseitig zu tÃ¶ten, aber jetzt mÃ¼ssen sie wohl oder Ã¼bel zusammenarbeiten, um innerhalb von 24 Stunden zu der Gerichtsverhandlung zu kommen. Der Beginn eines haarstrÃ¤ubenden Abenteuers...", "keywords": "", "https://play.google.com/store/movies/details/Killer_s_Bodyguard?id=O0plYL8hoRo" },
+
+{ "title": "A-X-L - Movies on Google Play", "description": "Teenager Miles (Alex Neustaedter) findet unter seinen MitschÃ¼lern nur schwer Anschluss und verbringt jede freie Minute auf seinem Motorcross-Bike. In der kalifornischen WÃ¼ste wird er plÃ¶tzlich von einem kampfwÃ¼tigen Roboterhund A-X-L angegriffen. Nach einer rasanten Verfolgungsjagd gelingt es Miles nur knapp dem hochentwickeltem Wesen zu entkommen und es sogar, wie einen echten Hund zu zÃ¤hmen. Zwischen Mensch und Roboterhund entsteht eine tiefe Freundschaft, doch dafÃ¼r wurde die Maschine vom MilitÃ¤r nicht entwickelt. Die Wissenschaftler wollen ihre Kampfmaschine zurÃ¼ck haben und eine spannende Hetzjagd auf A-X-L beginnt. Miles und die hÃ¼bsche Sara (Becky G) versuchen alles, dass der Hund nicht in falsche HÃ¤nde gerÃ¤t und begeben sich damit in grÃ¶Ãte Gefahr.", "keywords": "", "https://play.google.com/store/movies/details/A_X_L?id=AG7-b8XjTDs.P" },
+
+{ "title": "RotschÃ¼hchen und die sieben Zwerge - Movies on Google Play", "description": "Schneewittchens bÃ¶se Stiefmutter Regina hat den KÃ¶nig entfÃ¼hrt. Die Prinzessin macht sich auf die Suche nach ihrem geliebten Vater und nimmt versehentlich Reginas rote Zauberschuhe mit. Diese verwandeln ihr Aussehen so sehr, dass sie sich, um unerkannt zu bleiben, als RotschÃ¼hchen ausgibt. Auf der Flucht findet RotschÃ¼hchen Unterschlupf und Hilfe bei den Sieben Zwergen...", "keywords": "", "https://play.google.com/store/movies/details/Rotsch%C3%BChchen_und_die_sieben_Zwerge?id=g5YDIlPnoAQ.P" },
+
+{ "title": "The Raid 2 - Movies on Google Play", "description": "Korruption und skrupellose Gewalt herrschen in der indonesischen Hauptstadt Jakarta - die mÃ¤chtigen Mafia-Familien haben die Macht an sich gerissen, die Polizei muss tatenlos zusehen. Nur ein Mann ist bereit, alles zu riskieren, um die Kriminellen in die Knie zu zwingen: Der junge Cop Rama lÃ¤sst sich als Undercover-Ermittler in die Organisation einschleusen, um das System von Innen heraus zu zerschlagen. Ramas Plan dafÃ¼r ist so gefÃ¤hrlich wie explosiv, denn er mÃ¶chte die verfeindeten Parteien zu einem vernichtenden Gangsterkrieg anstacheln. Wer dachte, dass Martial Arts-Brett "The Raid" hÃ¤tte bereits die Grenzen des Adrenalinkinos gesprengt und sich fÃ¼r Jahre als Spitzenreiter in Sachen knochenbrechender Stunts und brillanter Kampfchoreographie betabliert, der kennt offenbar Regisseur Gareth Evans nicht. Gemeinsam mit dem bewÃ¤hrten Team des ersten Teils - allen voran Kampfkunst-Jahrhunderttalent Iko Uwais - zieht der walisische Filmemacher hier alle Actionregister. Virtuoser, spektakulÃ¤rer, einfallsreicher und hÃ¤rter war Actionkino noch nie!", "keywords": "", "https://play.google.com/store/movies/details/The_Raid_2?id=ywRFPON_wic" },
+
+{ "title": "WÃ¤chter der Galaxis - Movies on Google Play", "description": "Effektvolles Science-Fiction-Spektakel mit Witz und Herz: Im Jahr 2070 stellt sich das âCosmoball"-Team der Erde einem Ã¼bermÃ¤chtigen Gegner entgegen. Dabei geht es um weit mehr als sportlichen Erfolg â sie mÃ¼ssen den verheerenden Angriff des auÃerirdischen Superschurken Cherno abwehren und das Universum vor der vollstÃ¤ndigen Vernichtung retten!", "keywords": "", "https://play.google.com/store/movies/details/W%C3%A4chter_der_Galaxis?id=VdJd0mo2dhM.P" },
+
+{ "title": "Sci-fi & fantasy - Movies & TV on Google Play", "description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "keywords": "", "https://play.google.com/store/movies/category/13" },
+
+{ "title": "The Raid - Movies on Google Play", "description": "Als neues Mitglied eines verdeckt operierenden Sondereinsatzkommandos soll Rama einen brutalen Drogenbaron in dessen heruntergekommenen fÃ¼nfzehnstÃ¶ckigen Apartmentblock stellen und dingfest machen. Aber nicht alles ist so, wie es scheint: Die FÃ¼hrung der Eliteeinheit verfolgt anscheinend ihre eigenen Ziele, wÃ¤hrend der Kopf des Kartells offenbar lÃ¤ngst auf die Angreifer gewartet hat. Als seine Wachen die Operation gleich zu Beginn auffliegen lassen, bricht in dem GebÃ¤ude die HÃ¶lle los.", "keywords": "", "https://play.google.com/store/movies/details/The_Raid?id=SAoT-Si_eig" },
+
+{ "title": "Narco Soldiers â Kampf der Kartelle - Movies on Google Play", "description": "Der ehrgeizige Soldat Danny war in den letzten Jahren fÃ¼r die Ãberwachung der Drogenlieferungen seiner dominikanischen Gang in die Vereinigten Staaten verantwortlich. ZurÃ¼ck in seiner Heimatstadt Santo Domingo arbeitet er sich schnell nach oben und plant mit der Verlobten seines besten Freundes die Macht Ã¼ber andere Kartelle zu Ã¼bernehmen. Ein erbitterter Kampf zwischen den Gangs bricht aus ...", "keywords": "", "https://play.google.com/store/movies/details/Narco_Soldiers_Kampf_der_Kartelle?id=T0oBLYh393A.P" },
+
+{ "title": "Singularity - Movies on Google Play", "description": "Im Jahr 2020 stellt Elias van Dorne (John Cusack), CEO des weltweit grÃ¶Ãten Herstellers von Robotern, seine bisher mÃ¤chtigste Erfindung vor: Kronos, ein Super-Computer, der das Ende aller Kriege bedeuten soll. Doch Kronos erkennt blitzschnell, dass der einzige Feind des weltweiten Friedens der Mensch selbst ist. Der Computer richtet alle Waffen und Roboter gegen die Menschheit und rottet diese Ã¼ber Nacht so gut wie aus. 97 Jahre spÃ¤ter hat nur noch eine kleine Zahl von Menschen Ã¼berlebt und versteckt sich tagein tagaus vor den Killer-Maschinen. Doch die beiden Teenies Andrew (Julian Schaffner) und Calia (Jeannine Wacker) schlieÃen sich zusammen, um in eine unbekannte Welt vorzustoÃen, von der es heiÃt, dass es dort keine Roboter gebe. Sie brechen auf zu einer beschwerlichen und gefÃ¤hrlichen Reise â ohne zu wissen, ob es die neue Heimat Ã¼berhaupt gibt.", "keywords": "", "https://play.google.com/store/movies/details/Singularity?id=AWbeLfVNce8" },
+
+{ "title": "Taken in Marokko - Die Marrakesch VerschwÃ¶rung - Movies on Google Play", "description": "Nachdem ihre kleine Tochter Sophie wÃ¤hrend einer Reise in Marokko entfÃ¼hrt wurde, nimmt die ehemalige FBI Agentin Lisa Brennon (Angela Dixon) das Gesetz in die eigenen HÃ¤nde. Auf der Jagd nach den Kidnappern durch die Gassen von Marrakesch macht sie dabei vor nichts und niemandem halt. Selbst die lokalen BehÃ¶rden stellen sich gegen Brennon und versuchen, ihr einen Mord anzuhÃ¤ngen. Bald stellt sich heraus, dass weit mehr hinter der Sache steckt als zunÃ¤chst vermutet â¦", "keywords": "", "https://play.google.com/store/movies/details/Taken_in_Marokko_Die_Marrakesch_Verschw%C3%B6rung?id=V5Hj0F0DMDA" },
+
+{ "title": "Lady Bloodfight - Movies on Google Play", "description": "Als die amerikanische Backpackerin Jane (Amy Johnston) sich in Hongkong erfolgreich gegen drei RÃ¤uber zur Wehr setzt, erregt dies die Aufmerksamkeit von Shu (Muriel Hofmann), einer Kampfsportmeisterin. Beeindruckt von ihren FÃ¤higkeiten, rekrutiert und trainiert sie die junge Frau, damit sie an einem harten Underground-Turnier teilnehmen kann. Nach Monaten krÃ¤ftezehrenden Trainings ist Jane endlich bereit, sich den tÃ¶dlichsten weiblichen KÃ¤mpferinnen der Welt zu stellen. Zu diesen gehÃ¶rt auch Ling (Jenny Wu), die SchÃ¼lerin von Shus Erzfeindin Wai (Kathy Wu). Neben dem Wettkampf muss sich Jane auch anderen Gefahren stellen, die sie durch Hongkongs dÃ¼stere Unterwelt fÃ¼hren ...", "keywords": "", "https://play.google.com/store/movies/details/Lady_Bloodfight?id=92gcFoxpTz8" },
+
+{ "title": "Movies on Google Play", "description": "", "keywords": "", "https://play.google.com/store/movies/collection/cluster?clp=8gN0CicKIXByb21vdGlvbl80MDAxNTliX3NlYXNvbl9kZWFsc190dhA_GAQSSQpDbmV3X2hvbWVfZGV2aWNlX2ZlYXR1cmVkX3Byb21vdGlvbl80MDAxNTliX3NlYXNvbl9kZWFsc190dl8wLTctNC02MxAMGAQ%3D:S:ANO1ljJ8SsA&gsr=CnfyA3QKJwohcHJvbW90aW9uXzQwMDE1OWJfc2Vhc29uX2RlYWxzX3R2ED8YBBJJCkNuZXdfaG9tZV9kZXZpY2VfZmVhdHVyZWRfcHJvbW90aW9uXzQwMDE1OWJfc2Vhc29uX2RlYWxzX3R2XzAtNy00LTYzEAwYBA%3D%3D:S:ANO1ljIFwe4" },
+
+{ "title": "Sons of Anarchy: Season 1 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 1 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-9CyqO2WvWHXpKo-IDQieQg" },
+
+{ "title": "Sons of Anarchy: Season 2 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 2 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-R58_Z7om_DDioCDrJWtwhg" },
+
+{ "title": "Sons of Anarchy: Season 3 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 3 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-iWYDvLWzw3QMM8aWti6Cew" },
+
+{ "title": "Sons of Anarchy: Season 5 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 5 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-T3n7KJbId_UjADfrjYumfg" },
+
+{ "title": "Sons of Anarchy: Season 7 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 7 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-dx11vkkSo_IFNk6E7pU5kg" },
+
+{ "title": "Sons of Anarchy: Season 6 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 6 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-TheTLBBSIbHFOKpVchMmmQ" },
+
+{ "title": "Sons of Anarchy: Season 4 - TV on Google Play", "description": "Buy Sons of Anarchy: Season 4 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=5VxeNtvLRUA&cdid=tvseason-exRzSTMzeWS3AJRVLvI1kg" },
+
+{ "title": "Sherazade - Geschichten aus 1001 Nacht: Season 1 - TV on Google Play", "description": "Buy Sherazade - Geschichten aus 1001 Nacht: Season 1 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=I0lnHXQiuRKCHlJ3-4-XvQ&cdid=tvseason-s_KbvBOspKTOTgfFHsnQDQ" },
+
+{ "title": "Cosby: Cosby, Staffel 1 - TV on Google Play", "description": "Buy Cosby: Cosby, Staffel 1 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=DOwUoSUOVNU&cdid=tvseason-krYq6ufR7grMjx4CQSgA_A" },
+
+{ "title": "Cosby: Cosby - Staffel 4 - TV on Google Play", "description": "Buy Cosby: Cosby - Staffel 4 on Google Play, then watch on your PC, Android, or iOS devices. Download to watch offline and even view it on a big screen using Chromecast.", "keywords": "", "https://play.google.com/store/tv/show?id=DOwUoSUOVNU&cdid=tvseason-LG1FouS60k7bLFLFNtXL0g" },
+
+{ "title": "Google Play-Nutzungsbedingungen", "description": "", "keywords": "", "https://play.google.com/intl/de_de/about/play-terms.html" },
+
+{ "title": "Privacy Policy â Privacy & Terms â Google", "description": "", "keywords": "", "https://policies.google.com/privacy" },
+
+{ "title": "Android Developers", "description": "The official site for Android developers. Provides the Android SDK and documentation for app developers and designers.", "keywords": "", "http://developer.android.com/index.html" },
+
+{ "title": "      Kontakt – Google    ", "description": "", "keywords": "", "https://www.google.de/contact/impressum.html" },
+
+{ "title": "", "description": "", "keywords": "", "https://payments.google.com/termsOfService?hl=de" },
+
+{ "title": "", "description": "", "keywords": "", "https://payments.google.com/legaldocument?family=0.privacynotice&hl=de" },
+
+{ "title": "YouTube", "description": "Auf YouTube findest du die angesagtesten Videos und Tracks. AuÃerdem kannst du eigene Inhalte hochladen und mit Freunden oder gleich der ganzen Welt teilen.", "keywords": "Video, teilen, Kamerahandy, Videohandy, kostenlos, hochladen", "https://www.youtube.com/" },
+
+{ "title": "About YouTube - YouTube", "description": "YouTube’s mission is to give everyone a voice and show them the world. Learn about our brand, community, careers and more.", "keywords": "", "https://www.youtube.com/about/" },
+
+{ "title": "YouTube for Press", "description": "<p>Quickly find the stats, photos and videos you’re looking for, along with guidelines for crediting and broadcasting them.</p><p>For any additional press inquiries, contact <a href="mailto:press@google.com">press@google.com</a></p>", "keywords": "", "https://www.youtube.com/about/press/" },
+
+{ "title": "YouTube-Richtlinien zu Urheberrechten und Fair Use - Wie funktioniert YouTube?", "description": "Jeder hat Zugriff auf die YouTube-Tools zur Verwaltung von Urheberrechten. Damit können Rechteinhaber ihr urheberrechtlich geschütztes Material auf YouTube verwalten.", "keywords": "", "https://www.youtube.com/about/copyright/" },
+
+{ "title": "Kontakt", "description": "", "keywords": "", "https://www.youtube.com/t/contact_us/" },
+
+{ "title": "Creators | YouTube", "description": "The official home for creator resources and benefits available to help you make great videos, find your audience, and grow your channel on YouTube.", "keywords": "", "https://www.youtube.com/creators/" },
+
+{ "title": "      YouTube Advertising - Online Video Advertising Campaigns    ", "description": "Video advertising on YouTube works, and you only pay when people watch your video ads. Get started with online video advertising campaigns today.", "keywords": "", "https://www.youtube.com/ads/" },
+

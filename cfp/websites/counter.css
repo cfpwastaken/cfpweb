@@ -1,0 +1,57 @@
+/* Prob needed somewhere so imma keep it */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    
+}
+
+.container {
+    position: absolute;
+    background: #fff;
+}
+
+.countdown {
+    display: flex;
+    margin-top: 50px;
+}
+.countdown div {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background: #333;
+    color: #fff;
+    margin: 0 15px;
+    font-style: 3em;
+    font-weight: 500;
+}
+.countdown div:before {
+    content: '';
+    position: absolute;
+    bottom: -30px;
+    left: 0;
+    width: 100px;
+    height: 35px;
+    background: #ff0;
+    color: #333;
+    font-style: 0.35em;
+    line-height: 35px;
+    font-weight: 300;
+    
+}
+.countdown #daysBox:before {
+    content: 'Tage';
+}
+.countdown #hoursBox:before {
+    content: 'Stunden';
+}
+.countdown #minsBox:before {
+    content: 'Minuten';
+}
+.countdown #secsBox:before {
+    content: 'Sekunden';
+}

@@ -1,0 +1,3 @@
+msgbox Hallo Welt
+errorbox Error
+infobox Info

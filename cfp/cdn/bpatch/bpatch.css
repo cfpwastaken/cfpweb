@@ -1,0 +1,102 @@
+/* Bootstrap Stuff */
+
+body {
+    background-color: #333;
+    color: white;
+}
+
+.accordion-button {
+    color: white !important;
+    background-color: #333 !important;
+}
+
+.alert-primary,
+.alert-secondary,
+.alert-light,
+.alert-dark,
+.alert-success,
+.alert-danger,
+.alert-warning,
+.alert-info,
+.bg-secondary,
+.bg-primary,
+.bg-success,
+.bg-danger,
+.bg-warning,
+.bg-info,
+.bg-light,
+.bg-dark {
+    background-color: #333 !important;
+    color: white !important;
+    border-color: #333 !important;
+}
+
+.btn-primary,
+.btn-secondary,
+.btn-success,
+.btn-danger,
+.btn-warning,
+.btn-info,
+.btn-light,
+.btn-dark {
+    background-color: #444 !important;
+    color: white !important;
+    border-color: #444 !important;
+}
+
+code {
+    color: white;
+}
+
+.breadcrumb-item a {
+    color: #555 !important
+}
+
+.card,
+.list-group,
+.list-group-flush,
+.list-group-item {
+    background-color: #333 !important;
+}
+
+
+/*NES stuff*/
+
+html {
+    cursor: auto !important;
+}
+
+.nes-text {
+    color: white !important;
+}
+
+.nes-btn{
+    background-color: #444 !important;
+    color: white !important;
+    border-color: #444 !important;
+    border-image: none !important;
+    box-shadow: none;
+}
+
+.nes-field {
+    background-color: #222 !important;
+    color: white !important;
+    border-color: #222 !important;
+}
+
+.nes-input,
+.nes-textarea,
+select {
+    background-color: #222 !important;
+    border-image: none !important;
+}
+
+.title {
+    color: white !important;
+    background-color: #222 !important;
+}
+
+.nes-progress {
+    background-color: #222 !important;
+    border-image: none !important;
+}
