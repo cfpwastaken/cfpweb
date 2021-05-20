@@ -1,5 +1,0 @@
-print %hours%:%minutes%:%seconds% %year%/%month%/%day%
-print PC Name: %pcname%
-print Hi im a text
-print heaven hight poop push
-waitforenter
